@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Ajin Warrier
----![229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a](https://github.com/user-attachments/assets/124b1287-5d70-4113-98bd-604e1dfb3100)
+![229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a](https://github.com/user-attachments/assets/124b1287-5d70-4113-98bd-604e1dfb3100)
 
-🎓 MCA – Data Science Student  
+🎓 MCA – Data AI & DS Student  
 📊 Passionate about Data, ML, and Problem Solving  
 💡 Learning by building real-world projects 
 
@@ -13,10 +13,9 @@
 - **Version Control:** Git & GitHub
 
 - ## 📌 Academic & Personal Projects
-- 🟢 Smart Grid Energy Trading System  
-- 🟢 OCR-Based Document Verification  
-- 🟢 Face Recognition for Identity Verification  
-- 🟢 Fraud Risk Analysis using ML
+- 🟢 Smart Grid Energy Trading System.
+- 🟢 VKYC system with face recognition, liveness detection, OCR verification, fraud analysis, and admin monitoring.
+- 🟢 Canteen management system with online food ordering, UPI payments, real-time order tracking, inventory management, and MySQL integration.
 
 ## 📊 GitHub Overview
 ![GitHub Stats] (https://github-readme-streak-stats.herokuapp.com/?user=ajinwarrier&theme=github-dark)
