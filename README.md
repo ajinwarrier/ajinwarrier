@@ -17,3 +17,19 @@
 - 🟢 Face Recognition for Identity Verification  
 - 🟢 Fraud Risk Analysis using ML
 
+## 📊 GitHub Overview
+![GitHub Stats]https://github-readme-stats.vercel.app/api?username=ajinwarrier
+
+## 🎯 Current Focus
+- Strengthening ML fundamentals  
+- Improving backend development skills  
+- Contributing to open-source projects  
+
+---
+
+## 📬 Reach Me
+- LinkedIn: https://www.linkedin.com/in/ajin-t-v-10aa262ab  
+- Email: ajintv04@gmail.com
+
+⭐ *Thanks for visiting my profile — feel free to explore my repositories!*
+
