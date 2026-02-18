@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hello, I'm Ajin Warrier
 
-<!--
-**ajinwarrier/ajinwarrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA – Data Science Student  
+📊 Passionate about Data, ML, and Problem Solving  
+💡 Learning by building real-world projects 
 
-Here are some ideas to get you started:
+## 🧰 Skills & Tools
+- **Programming:** Python, Java, JavaScript  
+- **Data Analysis:** Pandas, NumPy, Matplotlib  
+- **Machine Learning:** Scikit-learn, PyTorch  
+- **Web Basics:** HTML, CSS  
+- **Version Control:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 📌 Academic & Personal Projects
+- 🟢 Smart Grid Energy Trading System  
+- 🟢 OCR-Based Document Verification  
+- 🟢 Face Recognition for Identity Verification  
+- 🟢 Fraud Risk Analysis using ML
+
